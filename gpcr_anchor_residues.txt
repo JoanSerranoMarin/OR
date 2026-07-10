@@ -1,4 +1,4 @@
-GPCR STRUCTURAL ANALYSIS — ANCHOR RESIDUES
+GPCR STRUCTURAL ANALYSIS - ANCHOR RESIDUES
 Notation: decimal format (e.g. 3.32) is equivalent to generic numbering 3x32.
 
 ORTHOSTERIC POCKET VOLUME (OPV)
@@ -109,3 +109,6 @@ Union of:
 - Orthosteric pocket volume (OPV)
 - Extracellular vestibule (ECV)
 - TM5-TM6 extracellular portal
+
+
+This file lists the Ballesteros–Weinstein anchor positions used to define the regions of interest for the GPCR cavity-volume analyses. Within each BW-defined region, a membrane-aware three-dimensional grid was generated. Grid points overlapping protein atoms were excluded, and the remaining free voxels were retained only when they satisfied a local enclosure criterion, removing points exposed to bulk solvent or lipid-facing space. The cavity volume was calculated as the number of retained voxels multiplied by the volume of an individual voxel.
