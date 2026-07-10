@@ -1,0 +1,111 @@
+GPCR STRUCTURAL ANALYSIS — ANCHOR RESIDUES
+Notation: decimal format (e.g. 3.32) is equivalent to generic numbering 3x32.
+
+ORTHOSTERIC POCKET VOLUME (OPV)
+3.32
+3.33
+3.34
+3.35
+3.36
+5.42
+5.43
+5.44
+5.45
+5.46
+6.48
+6.49
+6.50
+6.51
+6.52
+7.39
+7.40
+7.41
+7.42
+7.43
+
+EXTRACELLULAR VESTIBULE (ECV)
+3.25
+3.26
+3.27
+3.28
+3.29
+4.57
+4.58
+4.59
+4.60
+5.35
+5.36
+5.37
+5.38
+5.39
+5.40
+5.41
+6.55
+6.56
+6.57
+6.58
+6.59
+7.30
+7.31
+7.32
+7.33
+7.34
+7.35
+7.36
+
+TM5-TM6 EXTRACELLULAR PORTAL
+5.38
+5.39
+5.40
+5.41
+6.55
+6.56
+6.57
+6.58
+6.59
+
+TM5-TM6 PORTAL THROAT
+5.38
+5.39
+5.40
+6.57
+6.58
+6.59
+
+INTRACELLULAR CAVITY
+3.50
+5.61
+6.34
+7.56
+7.57
+7.58
+7.59
+
+TM1-TM7 CLEFT
+1.39
+1.40
+1.41
+1.42
+1.43
+1.44
+1.45
+1.46
+6.45
+6.46
+6.47
+6.48
+6.49
+7.32
+7.33
+7.34
+7.35
+7.36
+7.37
+7.38
+7.39
+
+COMBINED ORTHOSTERIC/LATERAL ROI
+Union of:
+- Orthosteric pocket volume (OPV)
+- Extracellular vestibule (ECV)
+- TM5-TM6 extracellular portal
